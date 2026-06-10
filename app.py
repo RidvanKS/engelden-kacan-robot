@@ -57,7 +57,7 @@ algılayıp otonom olarak yön değiştiren bir robot tasarlandı.
 **Kullanılan bileşenler:**
 - Arduino Uno
 - HC-SR04 Ultrasonik mesafe sensörü
-- L298N motor sürücü
+- L293B motor sürücü
 - 2x DC motor + tekerlek seti
 - 9V batarya
 """)
