@@ -44,7 +44,7 @@ st.divider()
 
 # --- PROJE VİDEOSU ---
 st.header("🎬 Proje Videosu")
-st.video("assets/proje_videosu.mp4")
+st.video("https://youtu.be/1oLlbrZzcW0")
 
 st.divider()
 
